@@ -18,3 +18,6 @@ class TestCalculator:
 
     def test_divide(self):
         assert 3 == calculator.divide(9, 3)
+
+    def test_pow(self):
+        assert 64 == calculator.pow(8, 2)
