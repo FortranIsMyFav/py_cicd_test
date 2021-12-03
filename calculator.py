@@ -18,5 +18,8 @@ def multiply(first_term, second_term):
 def divide(first_term, second_term):
     return first_term / second_term
 
+
+
+
 def pow(first_term, second_term):
     return first_term ** second_term
